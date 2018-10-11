@@ -98,9 +98,7 @@ img:last-of-type {
 #title {
   background-image: url("ship.jpg");
   z-index:2;
-  max-width: 100%;
-
-}
+  }
 
 #title h1 {
  transform: translateZ(.25px) scale(.75);
